@@ -127,9 +127,6 @@ flutter:
     - assets/rive_animations/
     - assets/pdfs/
   fonts:
-    - family: 'SF compact'
-      fonts:
-        - asset: assets/fonts/SF-Compact.dmg
     - family: 'Graduate'
       fonts:
         - asset: assets/fonts/Graduate-Regular.ttf
